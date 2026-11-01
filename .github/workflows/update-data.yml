@@ -46,3 +46,4 @@ jobs:
             git commit -m "Update data jadwal $(TZ=Asia/Jakarta date +'%Y-%m-%d %H:%M') WIB"
             git push
           fi
+
