@@ -1,0 +1,16 @@
+{
+  "name": "piylove-movie-schedule",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jadwal tayang film & series di aplikasi streaming Indonesia",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/update-data.mjs --offline && node scripts/build.mjs",
+    "build:site": "node scripts/build.mjs",
+    "update-data": "node scripts/update-data.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}
