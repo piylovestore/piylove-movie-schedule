@@ -1,0 +1,11 @@
+{
+  "name": "Piylove Movie Schedule",
+  "shortName": "Piylove",
+  "url": "https://jadwal.piylove.site",
+  "language": "id",
+  "timezone": "Asia/Jakarta",
+  "description": "Jadwal tayang film, series, drakor, dracin, dan anime terbaru di Netflix, Disney+, Prime Video, HBO Max, Viu, iQIYI, WeTV, Viki, Vidio, dan aplikasi streaming lain di Indonesia.",
+  "recentDays": 30,
+  "keepPastDays": 60,
+  "keepFutureDays": 365
+}

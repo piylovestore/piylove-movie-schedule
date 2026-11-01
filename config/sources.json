@@ -1,0 +1,20 @@
+{
+  "_info": "Halaman Wikipedia yang dibaca otomatis. {year} = tahun ini, {nextYear} = tahun depan. 'platform' dipakai kalau halamannya khusus satu platform; kalau tidak, platform dibaca dari kolom Network/Platform di tabel. Halaman yang tidak ada akan dilewati tanpa error.",
+  "pages": [
+    { "lang": "en", "page": "List of Netflix original films (since 2026)", "platform": "netflix", "type": "film" },
+    { "lang": "en", "page": "List of Netflix original programming", "platform": "netflix", "type": "series" },
+    { "lang": "en", "page": "List of Disney+ original programming", "platform": "disney", "type": "series" },
+    { "lang": "en", "page": "List of Disney+ original films", "platform": "disney", "type": "film" },
+    { "lang": "en", "page": "List of Amazon Prime Video original programming", "platform": "prime", "type": "series" },
+    { "lang": "en", "page": "List of Amazon Prime Video original films", "platform": "prime", "type": "film" },
+    { "lang": "en", "page": "List of HBO Max original programming", "platform": "hbo", "type": "series" },
+    { "lang": "en", "page": "List of Apple TV original programming", "platform": "apple", "type": "series" },
+    { "lang": "en", "page": "List of Apple TV original films", "platform": "apple", "type": "film" },
+    { "lang": "en", "page": "List of iQIYI original programming", "platform": "iqiyi", "type": "series", "country": "CN" },
+    { "lang": "en", "page": "List of Tencent Video original programming", "platform": "wetv", "type": "series", "country": "CN" },
+    { "lang": "en", "page": "List of Viu original programming", "platform": "viu", "type": "series" },
+    { "lang": "en", "page": "{year} in South Korean television", "type": "series", "country": "KR", "year": "{year}" },
+    { "lang": "en", "page": "{nextYear} in South Korean television", "type": "series", "country": "KR", "year": "{nextYear}" },
+    { "lang": "id", "page": "Daftar program orisinal Vidio", "platform": "vidio", "type": "series", "country": "ID" }
+  ]
+}

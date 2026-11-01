@@ -1,0 +1,17 @@
+[
+  { "key": "netflix",     "name": "Netflix",      "color": "#C8264B", "match": "netflix" },
+  { "key": "disney",      "name": "Disney+",      "color": "#2F5BD3", "match": "disney\\+|disney plus|hotstar|\\bhulu\\b" },
+  { "key": "prime",       "name": "Prime Video",  "color": "#1B8FB8", "match": "prime video|amazon" },
+  { "key": "hbo",         "name": "HBO Max",      "color": "#6A3FC7", "match": "\\bhbo\\b|hbo max|^max$" },
+  { "key": "apple",       "name": "Apple TV",     "color": "#5D6470", "match": "apple tv" },
+  { "key": "viu",         "name": "Viu",          "color": "#D9A112", "match": "\\bviu\\b" },
+  { "key": "iqiyi",       "name": "iQIYI",        "color": "#22A34A", "match": "iqiyi|iq\\.com" },
+  { "key": "wetv",        "name": "WeTV",         "color": "#E0682B", "match": "wetv|tencent" },
+  { "key": "viki",        "name": "Viki",         "color": "#1AA6A0", "match": "\\bviki\\b" },
+  { "key": "vidio",       "name": "Vidio",        "color": "#D33A2C", "match": "\\bvidio\\b" },
+  { "key": "catchplay",   "name": "Catchplay+",   "color": "#8C6A2F", "match": "catchplay" },
+  { "key": "bstation",    "name": "Bstation",     "color": "#2E9FD8", "match": "bstation|bilibili" },
+  { "key": "crunchyroll", "name": "Crunchyroll",  "color": "#E57A1F", "match": "crunchyroll" },
+  { "key": "visionplus",  "name": "Vision+",      "color": "#3A6F9E", "match": "vision\\+|visionplus" },
+  { "key": "klikfilm",    "name": "KlikFilm",     "color": "#9A3D78", "match": "klikfilm" }
+]
