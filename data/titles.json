@@ -1,0 +1,813 @@
+{
+  "generatedAt": "2026-11-01T03:42:52.496Z",
+  "today": "2026-11-01",
+  "count": 51,
+  "items": [
+    {
+      "slug": "tigers-sniff-the-rose",
+      "title": "Tigers Sniff the Rose",
+      "date": "2026-10-23",
+      "precision": "day",
+      "type": "series",
+      "country": "CN",
+      "genres": [
+        "sejarah",
+        "romansa"
+      ],
+      "platforms": [
+        "wetv",
+        "disney"
+      ],
+      "synopsis": "Seorang putri dan sarjana rakyat biasa terseret intrik istana dan krisis negara sambil berusaha membawa damai ke kerajaan mereka."
+    },
+    {
+      "slug": "the-gilded-age-musim-4",
+      "title": "The Gilded Age",
+      "date": "2026-11-02",
+      "precision": "day",
+      "type": "series",
+      "season": 4,
+      "country": "US",
+      "genres": [
+        "drama",
+        "sejarah"
+      ],
+      "platforms": [
+        "hbo"
+      ],
+      "synopsis": "Drama periode tentang persaingan keluarga kaya lama dan kaya baru di New York akhir abad ke-19 kembali untuk musim keempat.",
+      "note": "Tayang di AS 1 November malam, biasanya tersedia di Asia keesokan harinya."
+    },
+    {
+      "slug": "a-dogs-perfect-christmas",
+      "title": "A Dog's Perfect Christmas",
+      "date": "2026-11-04",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "drama",
+        "keluarga",
+        "natal"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Seorang remaja, kakeknya, dan anjing basset kesayangan mereka berusaha menjaga keluarga tetap utuh menjelang Natal. Dibintangi Dennis Quaid dan Milo Ventimiglia."
+    },
+    {
+      "slug": "anaesthesia",
+      "title": "Anaesthesia",
+      "date": "2026-11-04",
+      "precision": "day",
+      "type": "series",
+      "season": 1,
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "the-greatest",
+      "title": "The Greatest",
+      "date": "2026-11-04",
+      "precision": "day",
+      "type": "series",
+      "country": "US",
+      "genres": [
+        "drama",
+        "biografi",
+        "olahraga"
+      ],
+      "platforms": [
+        "prime"
+      ],
+      "synopsis": "Series tentang kehidupan petinju legendaris Muhammad Ali, diperankan Jaalen Best. Semua episode langsung tersedia."
+    },
+    {
+      "slug": "the-remarried-empress",
+      "title": "The Remarried Empress",
+      "date": "2026-11-04",
+      "precision": "day",
+      "type": "series",
+      "country": "KR",
+      "genres": [
+        "fantasi",
+        "romansa"
+      ],
+      "platforms": [
+        "disney"
+      ],
+      "synopsis": "Adaptasi webtoon populer: seorang permaisuri yang diceraikan kaisar memilih menikah lagi dengan pangeran negeri tetangga, di tengah intrik politik dua kerajaan.",
+      "note": "Tayang perdana 4 episode, episode baru tiap Rabu."
+    },
+    {
+      "slug": "north-of-north-musim-2",
+      "title": "North of North",
+      "date": "2026-11-05",
+      "precision": "day",
+      "type": "series",
+      "season": 2,
+      "country": "CA",
+      "genres": [
+        "komedi"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "one-year-to-live-buy-a-man",
+      "title": "One Year to Live, Buy a Man",
+      "date": "2026-11-05",
+      "precision": "day",
+      "type": "film",
+      "country": "JP",
+      "genres": [
+        "romansa",
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "overacting",
+      "title": "Overacting",
+      "date": "2026-11-05",
+      "precision": "day",
+      "type": "film",
+      "country": "TH",
+      "genres": [
+        "aksi",
+        "komedi"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "terrell-and-t-o",
+      "title": "Terrell & T.O.",
+      "date": "2026-11-05",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "dokumenter",
+        "olahraga"
+      ],
+      "platforms": [
+        "prime"
+      ],
+      "synopsis": "Dokumenter tentang karier NFL Terrell Owens, dari prestasi di lapangan sampai kontroversi di luar lapangan."
+    },
+    {
+      "slug": "possible-love",
+      "title": "Possible Love",
+      "originalTitle": "Ga-neung-han Sa-rang",
+      "date": "2026-11-06",
+      "precision": "day",
+      "type": "film",
+      "country": "KR",
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Drama kelas terbaru Lee Chang-dong (Burning). Seorang pekerja yang baru di-PHK dan istrinya bersinggungan dengan pembuat film dokumenter kaya dan pasangannya. Dibintangi Jeon Do-yeon dan Sul Kyung-gu."
+    },
+    {
+      "slug": "under-siege",
+      "title": "Under Siege",
+      "date": "2026-11-06",
+      "precision": "day",
+      "type": "series",
+      "season": 1,
+      "genres": [
+        "thriller"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "one-of-a-kind-romance",
+      "title": "One of a Kind Romance",
+      "date": "2026-11-09",
+      "precision": "day",
+      "type": "series",
+      "country": "KR",
+      "genres": [
+        "romansa",
+        "komedi"
+      ],
+      "platforms": [
+        "viu"
+      ],
+      "synopsis": "Pencari kerja Kong Yu Il (Joy) menjadi manajer aktor populer Tak Mu I (Kim Hyun Jin), yang ternyata penggemar berat novel yang pernah ia tulis."
+    },
+    {
+      "slug": "the-good-lawyer",
+      "title": "The Good Lawyer",
+      "originalTitle": "Un bon avocat",
+      "date": "2026-11-09",
+      "precision": "day",
+      "type": "film",
+      "country": "FR",
+      "genres": [
+        "thriller",
+        "hukum"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Setelah overdosis di ruang sidang membuatnya masuk rehabilitasi, seorang pengacara punya waktu seminggu untuk menyelamatkan kariernya dan menyiapkan sidangnya sendiri."
+    },
+    {
+      "slug": "last-one-standing-musim-4",
+      "title": "Last One Standing",
+      "date": "2026-11-10",
+      "precision": "day",
+      "type": "series",
+      "season": 4,
+      "genres": [
+        "reality",
+        "komedi"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "the-devils-plan-musim-3",
+      "title": "The Devil's Plan",
+      "date": "2026-11-10",
+      "precision": "day",
+      "type": "series",
+      "season": 3,
+      "country": "KR",
+      "genres": [
+        "reality"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Reality show adu strategi dan permainan otak kembali dengan peserta baru."
+    },
+    {
+      "slug": "alicias-law",
+      "title": "Alicia's Law",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "series",
+      "season": 1,
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "avedon",
+      "title": "Avedon",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "dokumenter"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Dokumenter arahan Ron Howard tentang hidup dan karya fotografer Richard Avedon."
+    },
+    {
+      "slug": "chiaroscuro",
+      "title": "ChiaroScuro",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "series",
+      "season": 1,
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "happy-anding",
+      "title": "Happy Anding",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "series",
+      "country": "KR",
+      "genres": [
+        "komedi",
+        "slice of life"
+      ],
+      "platforms": [
+        "viki"
+      ]
+    },
+    {
+      "slug": "style-wars",
+      "title": "Style Wars",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "series",
+      "season": 1,
+      "genres": [
+        "reality"
+      ],
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "slug": "the-body",
+      "title": "The Body",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "series",
+      "season": 1,
+      "genres": [
+        "thriller"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "the-gospel-of-christmas",
+      "title": "The Gospel of Christmas",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "drama",
+        "natal"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Seorang pendeta yang sedang goyah harus menemukan kembali imannya demi menyelamatkan gereja dan komunitasnya sebelum Natal."
+    },
+    {
+      "slug": "the-lord-of-the-rings-the-rings-of-power-musim-3",
+      "title": "The Lord of the Rings: The Rings of Power",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "series",
+      "season": 3,
+      "country": "US",
+      "genres": [
+        "fantasi",
+        "petualangan"
+      ],
+      "platforms": [
+        "prime"
+      ],
+      "synopsis": "Musim ketiga drama fantasi dari dunia Middle-earth, dibuka dengan empat episode sekaligus."
+    },
+    {
+      "slug": "what-a-boss-wants",
+      "title": "What a Boss Wants",
+      "date": "2026-11-11",
+      "precision": "day",
+      "type": "series",
+      "country": "KR",
+      "genres": [
+        "romansa",
+        "komedi"
+      ],
+      "platforms": [
+        "viki"
+      ],
+      "synopsis": "Komedi romantis kantor adaptasi novel web, dibintangi Sung Hoon dan Oh Se-young."
+    },
+    {
+      "slug": "allen",
+      "title": "Allen",
+      "date": "2026-11-12",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "fiksi ilmiah",
+        "keluarga"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "never-surrender",
+      "title": "Never Surrender",
+      "date": "2026-11-12",
+      "precision": "day",
+      "type": "film",
+      "country": "ID",
+      "genres": [
+        "kriminal",
+        "thriller"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Film thriller kriminal Indonesia original Netflix."
+    },
+    {
+      "slug": "the-christmas-switch",
+      "title": "The Christmas Switch",
+      "date": "2026-11-12",
+      "precision": "day",
+      "type": "film",
+      "country": "SE",
+      "genres": [
+        "romansa",
+        "komedi",
+        "natal"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "the-empress-musim-3",
+      "title": "The Empress",
+      "date": "2026-11-12",
+      "precision": "day",
+      "type": "series",
+      "season": 3,
+      "country": "DE",
+      "genres": [
+        "drama",
+        "sejarah"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "gentle-monster",
+      "title": "Gentle Monster",
+      "date": "2026-11-13",
+      "precision": "day",
+      "type": "film",
+      "country": "AT",
+      "genres": [
+        "drama",
+        "thriller"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Pindah ke desa untuk memulai hidup baru, Lucy mendapati dunianya runtuh saat polisi datang membawa rahasia gelap suaminya."
+    },
+    {
+      "slug": "heartland",
+      "title": "Heartland",
+      "date": "2026-11-13",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "misteri",
+        "thriller"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Mantan bintang musik country Misty Jones (Jessica Chastain) pulang ke Nashville untuk mengungkap hilangnya keponakannya yang sedang naik daun."
+    },
+    {
+      "slug": "the-chosen-musim-6",
+      "title": "The Chosen",
+      "date": "2026-11-15",
+      "precision": "day",
+      "type": "series",
+      "season": 6,
+      "country": "US",
+      "genres": [
+        "drama",
+        "religi"
+      ],
+      "platforms": [
+        "prime"
+      ]
+    },
+    {
+      "slug": "crash-season-2-fury-road",
+      "title": "Crash Season 2: Fury Road",
+      "date": "2026-11-16",
+      "precision": "day",
+      "type": "series",
+      "season": 2,
+      "country": "KR",
+      "genres": [
+        "aksi",
+        "thriller",
+        "komedi"
+      ],
+      "platforms": [
+        "disney"
+      ],
+      "synopsis": "Tim investigasi kecelakaan lalu lintas kembali memburu pelaku kejahatan di jalan raya. Dibintangi Lee Min-ki dan Kwak Sun-young."
+    },
+    {
+      "slug": "guarding-stars",
+      "title": "Guarding Stars",
+      "date": "2026-11-18",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "romansa",
+        "komedi",
+        "natal"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Seorang bodyguard serius membawa aktor terkenal yang dijaganya ke sebuah peternakan di Montana."
+    },
+    {
+      "slug": "madden",
+      "title": "Madden",
+      "date": "2026-11-18",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "drama",
+        "biografi",
+        "olahraga"
+      ],
+      "platforms": [
+        "prime"
+      ],
+      "synopsis": "Nicolas Cage memerankan pelatih dan komentator NFL John Madden, dari kemitraannya dengan Al Davis sampai lahirnya gim Madden."
+    },
+    {
+      "slug": "vienna-game",
+      "title": "Vienna Game",
+      "date": "2026-11-18",
+      "precision": "day",
+      "type": "series",
+      "season": 1,
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "slug": "good-partner-2",
+      "title": "Good Partner 2",
+      "date": "2026-11-20",
+      "precision": "day",
+      "type": "series",
+      "season": 2,
+      "country": "KR",
+      "genres": [
+        "hukum",
+        "drama"
+      ],
+      "platforms": [
+        "viu",
+        "viki"
+      ],
+      "synopsis": "Pengacara perceraian senior Cha Eun Gyeong (Jang Na Ra) kini berpasangan dengan Kang Hye Seong (Kim Hye Yoon) menangani kasus-kasus rumit."
+    },
+    {
+      "slug": "on-behalf-of-my-son",
+      "title": "On Behalf of My Son",
+      "date": "2026-11-20",
+      "precision": "day",
+      "type": "film",
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "percy-jackson-and-the-olympians-musim-3",
+      "title": "Percy Jackson and the Olympians",
+      "date": "2026-11-20",
+      "precision": "day",
+      "type": "series",
+      "season": 3,
+      "country": "US",
+      "genres": [
+        "fantasi",
+        "petualangan"
+      ],
+      "platforms": [
+        "disney"
+      ],
+      "synopsis": "Percy dan teman-temannya melanjutkan perjalanan untuk mencegah runtuhnya Olympus. Dibuka dengan dua episode, episode baru tiap Jumat."
+    },
+    {
+      "slug": "steps",
+      "title": "Steps",
+      "date": "2026-11-20",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "animasi",
+        "musikal",
+        "fantasi"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "the-blue-road",
+      "title": "The Blue Road",
+      "date": "2026-11-20",
+      "precision": "day",
+      "type": "series",
+      "country": "KR",
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "slug": "clashing-through-the-snow",
+      "title": "Clashing Through the Snow",
+      "date": "2026-11-23",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "romansa",
+        "komedi",
+        "natal"
+      ],
+      "platforms": [
+        "prime"
+      ],
+      "synopsis": "Dua editor penerbitan yang bersaing terpaksa berbagi mobil sewaan saat badai salju, sambil berebut kesepakatan penyelamat pekerjaan."
+    },
+    {
+      "slug": "the-substitute",
+      "title": "The Substitute",
+      "date": "2026-11-23",
+      "precision": "day",
+      "type": "series",
+      "country": "KR",
+      "genres": [
+        "thriller",
+        "kriminal"
+      ],
+      "platforms": [
+        "hbo",
+        "viki"
+      ],
+      "synopsis": "Siswa-siswa SMA terseret sisi gelap persaingan ujian masuk perguruan tinggi. Dibintangi Bae Hyun-sung dan Cha Kang-yoon."
+    },
+    {
+      "slug": "rob-lowe-the-outsider",
+      "title": "Rob Lowe: The Outsider",
+      "date": "2026-11-24",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "dokumenter"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Dokumenter tentang perjalanan Rob Lowe bertahan di Hollywood dan menjadi salah satu bintang yang paling awet."
+    },
+    {
+      "slug": "blade-runner-2099",
+      "title": "Blade Runner 2099",
+      "date": "2026-11-25",
+      "precision": "day",
+      "type": "series",
+      "country": "US",
+      "genres": [
+        "fiksi ilmiah"
+      ],
+      "platforms": [
+        "prime"
+      ],
+      "synopsis": "Michelle Yeoh memimpin kisah lanjutan beberapa dekade setelah Blade Runner 2049, di Los Angeles masa depan yang dibentuk para replikan."
+    },
+    {
+      "slug": "the-mosquito-bowl",
+      "title": "The Mosquito Bowl",
+      "date": "2026-11-25",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "drama",
+        "perang",
+        "olahraga"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Setelah serangan Pearl Harbor, empat bintang football kampus mendaftar menjadi Marinir AS."
+    },
+    {
+      "slug": "mickeys-home-alone",
+      "title": "Mickey's Home Alone",
+      "date": "2026-11-27",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "animasi",
+        "keluarga",
+        "natal"
+      ],
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "slug": "the-child",
+      "title": "The Child",
+      "date": "2026-11-27",
+      "precision": "day",
+      "type": "film",
+      "country": "ES",
+      "genres": [
+        "drama"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Di Basque tahun 1980-an, setelah Nuco yang berusia 9 tahun tewas dalam ledakan gas, ibunya berusaha bangkit sementara kakeknya menolak menerima kenyataan."
+    },
+    {
+      "slug": "the-hunchback-soul-of-paris",
+      "title": "The Hunchback: Soul of Paris",
+      "originalTitle": "Quasimodo, l'âme de Paris",
+      "date": "2026-11-27",
+      "precision": "day",
+      "type": "film",
+      "country": "FR",
+      "genres": [
+        "drama",
+        "sejarah"
+      ],
+      "platforms": [
+        "netflix"
+      ],
+      "synopsis": "Tafsir ulang kisah Si Bungkuk dari Notre Dame dengan Vincent Cassel sebagai Quasimodo, disutradarai Jean-François Richet."
+    },
+    {
+      "slug": "dasher",
+      "title": "Dasher",
+      "date": "2026-11-28",
+      "precision": "day",
+      "type": "film",
+      "country": "US",
+      "genres": [
+        "animasi",
+        "keluarga",
+        "natal"
+      ],
+      "platforms": [
+        "disney"
+      ],
+      "synopsis": "Spesial animasi Natal untuk keluarga."
+    },
+    {
+      "slug": "the-boy-who-stole-billions",
+      "title": "The Boy Who Stole Billions?",
+      "date": "2026-11-30",
+      "precision": "day",
+      "type": "series",
+      "country": "US",
+      "genres": [
+        "dokumenter"
+      ],
+      "platforms": [
+        "prime"
+      ],
+      "synopsis": "Docuseries tentang salah satu penipuan terbesar dalam sejarah AS, termasuk kesaksian langsung Sam Bankman-Fried dari penjara."
+    }
+  ]
+}
